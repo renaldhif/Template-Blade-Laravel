@@ -1,8 +1,3 @@
-@extends('partials.master')
-@section('title','data-tables')
-@section('content')
-    
-
 <div class="card">
     <div class="card-header">
         <h3 class="card-title">DataTable with default features</h3>
@@ -441,4 +436,3 @@
     </div>
     <!-- /.card-body -->
 </div>
-@endsection
