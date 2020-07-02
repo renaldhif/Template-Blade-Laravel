@@ -1,10 +1,10 @@
-@extends('adminlte/master')
+@extends('master')
 
 @yield('content')
 
 
 @section('content')
-    @include('adminlte/partials/table')
+    @include('partials/table')
 @endsection
 
 
