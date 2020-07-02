@@ -28,6 +28,6 @@ Route::get('/master', function (){
 });
 
 Route::get('/data-table', function () {
-    return view('items.datatable');
+    return view('items.data-table');
 });
 
